@@ -2,7 +2,6 @@
 
 ## Created Online [Slam Book](https://en.wikipedia.org/wiki/Slam_book) with the help of Firebase.
 
-### [Working Vedio is here](https://appetize.io/app/hw879xtfezmve5n7vqzbqpnvvr?device=nexus5&scale=75&orientation=portrait&osVersion=7.1)
 ### Here are some screenshots :-
 
 ![2018-08-07 03-33-50 screenshot](https://user-images.githubusercontent.com/25812257/43743452-c3ea8432-998a-11e8-8156-55eb5201d492.jpg)
